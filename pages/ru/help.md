@@ -20,6 +20,7 @@ breadcrumb_hide: true
 - | -
 Шуя (Ивановская область) | Олег Туманов, [<i class="fab fa-vk"></i>](https://vk.com/oitumanov) [<i class="fab fa-telegram-plane"></i> (@otumanov)](https://t.me/otumanov)
 Люберцы (Московская область) | Александр Колков, [<i class="fab fa-telegram-plane"></i> (@agcommsk)](https://t.me/agcommsk)
+Екатеринбург (Свердловская область) | Андрей Воинов, [<i class="fab fa-telegram-plane"></i> (@3dgamma)](https://t.me/3dgamma)
 {:.table .help-print-table}
 
 Если вы тоже желаете печатать детали принтера на заказ, вам необходимо быть в нашей группе в телеграмме. [Напишите нам](https://github.com/NickRimmer/RedBot/issues){:target="_blank"} от куда вы, и покажите примеры ваших принтов.
